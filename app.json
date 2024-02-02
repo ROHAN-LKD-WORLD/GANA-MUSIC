@@ -1,7 +1,7 @@
 {
-    "name": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+    "name": "˹𝙂𝘼𝙉𝘼 ✘ 𝙈𝙐𝙎𝙄𝘾🌸˼",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "logo": "https://telegra.ph/file/847a4fbd41511bb868a71.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://bsdk:motherchod@cluster0.elanwji.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://GANAMUSIC:GANAMUSIC@cluster0.0piobk8.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
